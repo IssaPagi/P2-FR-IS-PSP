@@ -6,8 +6,8 @@
     "data_size": 148,
     "nom_orig": "Maya",
     "texte_orig": "It[SP]didn't[SP]work[SP]after[SP]all...[1205][001E][SP]What's[SP]the\npattern[SP]to[SP]all[SP]this...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ça n'a donc pas marché,"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 174,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]Big[SP]Maya?[SP]Isn't[SP]it[SP]about[SP]time[SP]you[SP]told\nus[SP]about[SP]this[SP]secret[SP]of[SP]yours?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hey, chère Maya? Ça serait pas le moment\npour que tu nous révèle ton secret?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 94,
     "nom_orig": "Ginko",
     "texte_orig": "Yeah,[SP]Maya-chan![SP]Don't[SP]you[SP]trust[SP]us?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Ouais, Maya-chan! Tu nous fais pas confiance ?"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 106,
     "nom_orig": "Maya",
     "texte_orig": "Oh,[SP]of[SP]course[SP]I[SP]do![SP]I[SP]trust[SP]you[SP]all,[SP]but...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Oh, mais si! Je vous fais tous confiance, mais..."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 252,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]think[SP]you're[SP]right...[1205][001E][SP]It's[SP]not[SP]good[SP]to[SP]keep\nhiding[SP]it.[SP]Alright,[SP]I'll[SP]take[SP]the[SP]plunge[SP]and\nspill[SP]the[SP]beans,[SP]but...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Vous avez raison...[1205][001E] Je ne devrais pas le cacher\nAllez je   "
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 152,
     "nom_orig": "Jun,[SP][U+1113],[SP]Ginko[SP]&[SP]Eikichi",
     "texte_orig": "Whaaaaat!?[SP]Our[SP]thoughts[SP]are[SP]becoming[SP]reality!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun, [U+1113], Ginko & Eikichi",
+    "texte_fr": "Quooooi!? Nos pensées deviennent réalité!?"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 212,
     "nom_orig": "Maya",
     "texte_orig": "Whoa,[SP]whoa![SP]Before[SP]you[SP]lock[SP]me[SP]in[SP]the\nnuthouse,[SP]think[SP]back[SP]on[SP]everything[SP]that's\nhappened[SP]so[SP]far.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Wow, wow! Avant de m'enfermer dans un asile\nrepenser à tout ce qui s'est passé jusqu'à maintenant."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 198,
     "nom_orig": "Jun",
     "texte_orig": "True...[1205][001E][SP]There[SP]were[SP]those[SP]traps[SP]and[SP]the[SP]incident\nwith[SP]the[SP]healing[SP]spring...[1205][001E][SP]But[SP]why...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "C'est vrai...[1205][001E] Il y avait "
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 254,
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]a[SP]superstar...[SP]I'm[SP]a[SP]superstar...\nI'm[SP]a[SP]superstar...[SP]I'm[SP]a[SP]superstar...\nI'm[SP]a[SP]superstar...[SP]I'm[SP]a[SP]superstar...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "EIkichi",
+    "texte_fr": "Je suis une superstar... Je suis une superstar...\nJe suis une superstar... Je suis une superstar...\nJe suis une superstar...!"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 126,
     "nom_orig": "Ginko",
     "texte_orig": "*staa[1205][U+000A]a[1205][U+000A]a[1205][U+000A]a[1205][U+000A]a[1205][U+000A]are*[1205][001E]\n[U+1113],[SP]do[SP]you[SP]like[SP]me[SP]now...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "*fixe[1205][U+000A]e[1205][U+000A]e[1205][U+000A]e[1205][U+000A]e[1205][U+000A]eee*[1205][001E]\n[U+1113], est-ce que tu m'aimes maintenant...?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 308,
     "nom_orig": "Ginko",
     "texte_orig": "[U+1113],[SP]do[SP]you[SP]like[SP]me[SP]now...?\n[U+1208][U+0003][1432][NULL][NULL][0014]Yes.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]As[SP]a[SP]friend.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Ginko\nHoisamuro![SP]This[SP]is[SP]great![SP]It's[SP]just[SP]like\nMaya-chan[SP]said!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "[U+1113], est-ce que tu m'aimes maintenant...?\n[U+1208][U+0003][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]En tant qu'ami.[1432][NULL][NULL][0014]\n[U+1109]\"Ginko\nHoisamura! C'est génial!\nMaya avait raison!"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 104,
     "nom_orig": "Ginko",
     "texte_orig": "Huuuh!?[SP]Seoi[SP]Lo...[1205][001E][SP]Maya-chan,[SP]you[SP]lied!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Huuuh!?Seoi Lo...[1205][001E][SP]Maya-chan, t'as menti"
   },
   {
     "id": 12,
@@ -226,7 +226,7 @@
     "data_size": 118,
     "nom_orig": "Jun,[SP][U+1113],[SP]Ginko[SP]&[SP]Eikichi",
     "texte_orig": "Hmm...[1205][U+000F][SP]A[SP]can[SP]of[SP]crabmeat...",
-    "nom_fr": "",
+    "nom_fr": "Jun, [U+1113], Ginko & Eikichi",
     "texte_fr": ""
   },
   {
@@ -236,7 +236,7 @@
     "data_size": 286,
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]no[SP]use[SP]driving[SP]ourselves[SP]nuts[SP]over[SP]what\nwe[SP]can't[SP]figure[SP]out![SP]Just[SP]try[SP]not[SP]to[SP]think[SP]of\nanything...[1205][001E][SP]Especially[SP]anything[SP]scary.",
-    "nom_fr": "",
+    "nom_fr": "Maya",
     "texte_fr": ""
   },
   {
@@ -246,8 +246,8 @@
     "data_size": 90,
     "nom_orig": "Eikichi",
     "texte_orig": "E-Easy[SP]for[SP]you[SP]to[SP]say,[SP]but...[1205][001E]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est simple à dire pour vous, mais...[1205][001E]"
   },
   {
     "id": 25,
@@ -256,8 +256,8 @@
     "data_size": 116,
     "nom_orig": "Eikichi",
     "texte_orig": "Oh...[1205][001E][SP]Oh[SP]shit[SP]oh[SP]shit![SP]A-A[SP]golden[SP]Pops...!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Oh...[1205][001E] Oh merde oh merde! Mon père en or...!?"
   },
   {
     "id": 26,
@@ -266,7 +266,7 @@
     "data_size": 98,
     "nom_orig": "Jun,[SP][U+1113],[SP]Ginko[SP]&[SP]Maya",
     "texte_orig": "WHAT[SP]DID[SP]WE[SP]JUST[SP]SAY!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun, [U+1113], Ginko & Maya",
+    "texte_fr": "QU'EST CE QU'ON VIENT JUSTE DE DIRE!?"
   }
 ]
